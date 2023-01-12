@@ -1,6 +1,4 @@
-��#� �g�i�l�z�o�n�
-�
-�
+
 # 💫 About Me:
 Self-Taught MERN Stack Developer 
 
