@@ -20,7 +20,7 @@ jobs:
     steps:
 
       # Checks out the repository
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
 
       # Generates the snake  
       - name: Generate Snake
