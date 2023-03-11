@@ -37,6 +37,9 @@ jobs:
       - run: git status
 
       # Push the changes
+      - name: Set output
+        run: echo 'snake_output=true' >> $GITHUB_ENV
+      
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
